@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #fff;
+}
+.wrap {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.computer-infos {
+    padding: 25px 0px;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px #fff solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.computer-infos div {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+    color: lime;
+    font-weight: bold;
+}
+
+.krypto {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.krypto img {
+    width: 100%;
+}
